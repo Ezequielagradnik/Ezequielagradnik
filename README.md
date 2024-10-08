@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Learnhub](https://github.com/FeliCres7/LearnHub)
 
-- 🌱 I’m currently learning **JS, express, postgress**
+- 🌱 I’m currently learning **JS, express, postgress, TS**
 
-- 📫 How to reach me **eagradnik@gmail.com**
+- 📫 How to reach me **eagradnik@gmail.com** or **https://www.linkedin.com/in/ezequiel-agradnik-a6a790331/?trk=opento_sprofile_details**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

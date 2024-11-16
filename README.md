@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Learnhub](https://github.com/FeliCres7/LearnHub)
 
-- 🌱 I’m currently learning **JS, express, postgress, TS**
+- 🌱 I’m currently learning **JS, Node.js, HTML, CSS, TS**
 
 - 📫 How to reach me **eagradnik@gmail.com** or **https://www.linkedin.com/in/ezequiel-agradnik-a6a790331/?trk=opento_sprofile_details**
 
